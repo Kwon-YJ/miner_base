@@ -1,0 +1,1 @@
+PhoenixMiner.exe -pool asia.ethash-hub.miningpoolhub.com:20535 -wal rnjsdud789.1 -pass x -proto 1 -gpow 33
